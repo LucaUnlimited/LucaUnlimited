@@ -9,21 +9,21 @@ Soy un Analista en Sistemas con una sólida experiencia en lenguajes de programa
 
 Mi historial académico sobresaliente y proyectos previos demuestran mi capacidad para desarrollar soluciones tecnológicas, y he fortalecido mis habilidades blandas a través de la colaboración en equipos y cursos adicionales.
 
-
 ## Lenguajes
 
-Aquí están algunos de los lenguajes de programación y tecnologías con los que trabajo:
 
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" alt="Java" width="20"/> Java
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" alt="JavaEE" width="20"/> JavaEE
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg" alt="Spring Boot" width="20"/> Spring Boot
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" alt="JavaScript" width="20"/> JavaScript
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" alt="React" width="20"/> React
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" alt="Node.js" width="20"/> Node.js
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" alt="Python" width="20"/> Python
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" alt="HTML" width="20"/> HTML
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" alt="CSS" width="20"/> CSS
-- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" alt="MySQL" width="20"/> MySQL
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" alt="JavaEE" width="50"/> 
+    <img src="icons8-spring-boot-48.png" alt="Spring Boot" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" alt="JavaScript" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" alt="React" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" alt="Node.js" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" alt="Python" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" alt="HTML" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" alt="CSS" width="50"/> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" alt="MySQL" width="50"/> 
+    <img src="icons8-postgresql-48.png" alt="PostgreSQL" width="50"/> 
+</div>
 
 
 ## Proyectos destacados
