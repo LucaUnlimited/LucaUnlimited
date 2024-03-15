@@ -29,17 +29,25 @@ Mi historial académico sobresaliente y proyectos previos demuestran mi capacida
 
 ## Proyectos Destacados
 
-### Detección de Estacionamiento con YOLO
+### Sistema de Reservas para un Hotel
 
-Desarrollé una aplicación de detección de estacionamiento utilizando el modelo YOLO (You Only Look Once) en Python. Esta aplicación utiliza inteligencia artificial para identificar vehículos en un video y determinar si están estacionados en lugares designados.
+<img src="img/kitecabana.png" alt="Sistema de Reservas para un Hotel" width="400"/>
+
+Diseñé una aplicación con Spring Boot y React para gestionar las reservas de un hotel y poder crearlas sin que colisionen. Esta aplicación proporciona una interfaz intuitiva para que el personal del hotel pueda realizar y administrar reservas de habitaciones de manera eficiente.
 
 ### CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol
 
+<img src="img/canchaFront.png" alt="CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol" width="400"/>
+
 CanchaUp es una aplicación web desarrollada con tecnologías modernas para facilitar la reserva de canchas y la organización de partidos de fútbol de manera eficiente y sencilla.
 
-### Sistema de Reservas para un Hotel
+### Detección de Estacionamiento con YOLO
 
-Diseñé una aplicación con Spring Boot y React para gestionar las reservas de un hotel y poder crearlas sin que colisionen. Esta aplicación proporciona una interfaz intuitiva para que el personal del hotel pueda realizar y administrar reservas de habitaciones de manera eficiente.
+<img src="img/IA.gif" alt="Detección de Estacionamiento con YOLO" width="400"/>
+
+Desarrollé una aplicación de detección de estacionamiento utilizando el modelo YOLO (You Only Look Once) en Python. Esta aplicación utiliza inteligencia artificial para identificar vehículos en un video y determinar si están estacionados en lugares designados.
+
+
 
 ¡No dudes en explorar mis repositorios para conocer más sobre mi trabajo!
 
