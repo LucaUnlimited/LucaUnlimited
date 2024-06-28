@@ -72,7 +72,6 @@ Desarrollé una aplicación de detección de estacionamiento utilizando el model
 
 <h2 > Contactame</h2>
 Si tienes alguna pregunta o simplemente quieres charlar, no dudes en contactarme.
-Puedes contactarme por correo electrónico a [lucamartinrivera@gmail.com](mailto:lucamartinrivera@gmail.com) o visitar mi perfil en [LinkedIn](https://www.linkedin.com/in/luca-rivera-721a7b294/).
 
 
 ¡Gracias por visitar mi perfil!
