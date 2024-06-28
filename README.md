@@ -31,22 +31,20 @@
 
 <table align="left" >
 <tr border="none">
-  <td width="50%" align="center">
-    
-
-<img src="img/kitecabana.png" alt="Sistema de Reservas para un Hotel" width="400"/>
-<p>Sistema de Reservas para un Hotel</p>
-
-Diseñé una aplicación con Spring Boot y React para gestionar las reservas de un hotel y poder crearlas sin que colisionen. Esta aplicación proporciona una interfaz intuitiva para que el personal del hotel pueda realizar y administrar reservas de habitaciones de manera eficiente.
+<td width="50%" align="center">
+  <img src="img/kitecabana.png" alt="Sistema de Reservas para un Hotel" width="400"/>
+  <p>Sistema de Reservas para un Hotel</p>
+  <p>
+    Diseñé una aplicación con Spring Boot y React para gestionar las reservas de un hotel y poder crearlas sin que colisionen. Esta aplicación proporciona una interfaz intuitiva para que el personal del hotel pueda realizar y administrar      reservas de habitaciones de manera eficiente.
+  </p>
 </td>
 
 <td width="50%" align="center">
-    <img src="img/canchaFront.png" alt="CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol" width="400"/>
-
+  <img src="img/canchaFront.png" alt="CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol" width="400"/>
   <p>CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol</p>
-
-
-CanchaUp es una aplicación web desarrollada con tecnologías modernas para facilitar la reserva de canchas y la organización de partidos de fútbol de manera eficiente y sencilla.
+  <p>
+    CanchaUp es una aplicación web desarrollada con tecnologías modernas para facilitar la reserva de canchas y la organización de partidos de fútbol de manera eficiente y sencilla.
+  </p>
 </td>
 
  
