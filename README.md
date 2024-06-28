@@ -1,57 +1,78 @@
-
-# Bienvenido a mi perfil de GitHub!
-
-![Banner](img/banner2.jpeg)
-
-## Sobre mí
-
-Soy un Analista en Sistemas con una sólida experiencia en lenguajes de programación tanto en el Backend como en el Frontend. Mi formación como Técnico Electrónico me ha proporcionado habilidades para resolver problemas técnicos complejos, y mi autodidactismo en programación me ha preparado para contribuir en proyectos innovadores. 
-
-Mi historial académico sobresaliente y proyectos previos demuestran mi capacidad para desarrollar soluciones tecnológicas, y he fortalecido mis habilidades blandas a través de la colaboración en equipos y cursos adicionales.
-
-## Lenguajes
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" alt="JavaEE" width="50"/> 
-    <img src="img/icons8-spring-boot-48.png" alt="Spring Boot" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" alt="JavaScript" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" alt="React" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" alt="Node.js" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" alt="Python" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" alt="HTML" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" alt="CSS" width="50"/> 
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" alt="MySQL" width="50"/> 
-    <img src="img/icons8-postgresql-48.png" alt="PostgreSQL" width="50"/> 
+<div align="center">
+  <img height="300" src="https://github.com/LucaUnlimited/LucaUnlimited/blob/main/img/banner2.jpeg?raw=true"  />
 </div>
 
+###
+
+<h1 align="left">Bienvenido a mi perfil de GitHub!👋</h1>
+
+###
+
+<p align="left">Sobre Mi</p>
+
+###
+
+<p align="left">Analista en Sistemas con experiencia tanto en el Backend como en el Frontend. <br><br>Técnico Electrónico con habilidades para resolver problemas técnicos complejos.</p>
+
+###
+
+<h2 >Tecnologías 👨🏻‍💻</h2>
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,py,ts,js,html,css,git,docker,github,maven,mongodb,mysql,postgres,postman," />
+  </a>
+</p>
 
 
-## Proyectos Destacados
+<h2 >Proyectos Destacados</h2>
 
-### Sistema de Reservas para un Hotel
+<table align="left" >
+<tr border="none">
+  <td width="50%" align="center">
+    
 
 <img src="img/kitecabana.png" alt="Sistema de Reservas para un Hotel" width="400"/>
+<p>Sistema de Reservas para un Hotel</p>
 
 Diseñé una aplicación con Spring Boot y React para gestionar las reservas de un hotel y poder crearlas sin que colisionen. Esta aplicación proporciona una interfaz intuitiva para que el personal del hotel pueda realizar y administrar reservas de habitaciones de manera eficiente.
+</td>
 
-### CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol
+<td width="50%" align="center">
+    <img src="img/canchaFront.png" alt="CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol" width="400"/>
 
-<img src="img/canchaFront.png" alt="CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol" width="400"/>
+  <p>CanchaUp - Sistema de Reserva de Canchas y Organización de Partidos de Fútbol</p>
+
 
 CanchaUp es una aplicación web desarrollada con tecnologías modernas para facilitar la reserva de canchas y la organización de partidos de fútbol de manera eficiente y sencilla.
+</td>
 
-### Detección de Estacionamiento con YOLO
+ 
+<tr border="none">
+  <td width="50%" align="center">
+      <img src="img/IA.gif" alt="Detección de Estacionamiento con YOLO" width="400"/>
 
-<img src="img/IA.gif" alt="Detección de Estacionamiento con YOLO" width="400"/>
+   <p>Detección de Estacionamiento con YOLO</p>
+
 
 Desarrollé una aplicación de detección de estacionamiento utilizando el modelo YOLO (You Only Look Once) en Python. Esta aplicación utiliza inteligencia artificial para identificar vehículos en un video y determinar si están estacionados en lugares designados.
+</td>
+
+</tr>
+</table>
 
 
 
-¡No dudes en explorar mis repositorios para conocer más sobre mi trabajo!
 
-## Contáctame
+
+
+
+
+<h3 align="center">¡No dudes en explorar mis repositorios para conocer más sobre mi trabajo!</h3>
+
+<h2 > Contactame</h2>
 Si tienes alguna pregunta o simplemente quieres charlar, no dudes en contactarme.
 Puedes contactarme por correo electrónico a [lucamartinrivera@gmail.com](mailto:lucamartinrivera@gmail.com) o visitar mi perfil en [LinkedIn](https://www.linkedin.com/in/luca-rivera-721a7b294/).
 
