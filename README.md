@@ -58,6 +58,15 @@
 Desarrollé una aplicación de detección de estacionamiento utilizando el modelo YOLO (You Only Look Once) en Python. Esta aplicación utiliza inteligencia artificial para identificar vehículos en un video y determinar si están estacionados en lugares designados.
 </td>
 
+  <td width="50%" align="center">
+      <img src="img/MeetingBar.png" alt="Gestion Bar" width="400"/>
+
+   <p>Gestion de Stock Bar</p>
+
+
+Aplicacion para contabilizar y gestionar Ordenes y Stock de un Bar.
+</td>
+
 </tr>
 </table>
 
