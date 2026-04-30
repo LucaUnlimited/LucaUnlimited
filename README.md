@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="250" src="https://github.com/LucaUnlimited/LucaUnlimited/blob/main/img/banner2.jpeg?raw=true" />
-</div>
-
-<br>
-
 <h1 align="left">Luca Martin Rivera 👋</h1>
 
 <p align="left">
