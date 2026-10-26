@@ -2,15 +2,15 @@
 
 <p align="left">
   <strong>Analista en Sistemas · Desarrollador Full-Stack</strong><br>
-  Neuquén, Argentina · Remoto · Disponibilidad completa
+  Neuquén, Argentina · Remoto · Part-time o por contrato · Hasta 20 h/semana (UTC-3)
 </p>
 
 <p align="left">
-  Ayudo a equipos pequeños a resolver tareas web concretas: arreglos en React, integraciones API, dashboards de gestión y sitios para negocios. Trabajo desde el relevamiento hasta el deploy y la documentación.
+  Desarrollo herramientas web prácticas para equipos pequeños: mejoras concretas, integraciones API y dashboards de gestión. Mi trabajo pago reciente incluye dos productos distintos para clientes: TangoDash, conectado a Tango ERP para stock y reposición, y G2 Dashboard para procesos operativos y financieros.
 </p>
 
 <p align="left">
-  <em>I help small teams ship focused web fixes, API integrations, business dashboards and websites. Available for remote project work worldwide.</em>
+  <em>I build practical web tools for small teams: focused improvements, API integrations and business dashboards. Recent paid client work includes two separate products: TangoDash, connected to Tango ERP for stock and replenishment, and G2 Dashboard for operational and financial workflows.</em>
 </p>
 
 <p align="left">
@@ -22,39 +22,45 @@
 
 ---
 
-<h2>Proyectos destacados · Selected projects</h2>
+<h2>Trabajo para clientes · Client work</h2>
 
-<h3>G2 Dashboard · Gestión del negocio</h3>
-<p>Dashboard conectado con información de ERP para stock, proveedores, compras, flujo de caja, cobranzas y evolución de ventas. El trabajo reciente amplió los módulos de flujo y ventas. Proyecto independiente; el código del producto es privado.</p>
+<h3>TangoDash · Gestión de stock conectada a Tango ERP</h3>
+<p>Reúne artículos, proveedores, ventas y existencias. Permite configurar mínimos y máximos para sugerir reposición, preparar órdenes de compra y exportar reportes a Excel o PDF. Desarrollo pago para un cliente; código y datos privados.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>SQL Server</code></p>
 
-<h3>MeetingBar · Inventario hotelero</h3>
-<p>Sistema para recuento de stock, creación de pedidos, comparación de inventario entre depósitos y búsqueda de órdenes por habitación y huésped.</p>
-<p><code>Spring Boot</code> <code>React</code> <code>MySQL</code> · <a href="https://github.com/LucaUnlimited/MeetingBar">Repositorio público</a></p>
-
-<h3>CanchaUp · Reservas deportivas</h3>
-<p>Backend para reservas de canchas y organización de partidos, con autenticación, gestión de equipos y búsqueda de partidos.</p>
-<p><code>Java</code> <code>Apache Causeway</code> <code>PostgreSQL</code> · <a href="https://github.com/LucaUnlimited/Backend-CanchaUp">Backend</a> · <a href="https://github.com/LucaUnlimited/Front-CanchaUp">Frontend</a></p>
-
-<h3>Detector de estacionamiento · Visión artificial</h3>
-<p>Prototipo que analiza video, detecta vehículos y calcula la ocupación de espacios de estacionamiento.</p>
-<p><code>Python</code> <code>YOLO</code> <code>OpenCV</code> · <a href="https://github.com/LucaUnlimited/Parking-Detector">Repositorio público</a></p>
+<h3>G2 Dashboard · Operaciones y finanzas</h3>
+<p>Proyecto pago independiente con módulos de stock, ranking de proveedores, compras y remitos, flujo de caja y cheques, calendario de pagos, gastos, costo de mercadería, cobranzas y evolución de ventas. Código y datos del cliente son privados.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>SQL Server</code></p>
 
 ---
 
-<h2>Tecnologías</h2>
+<h2>Otros proyectos · Other projects</h2>
+
+<ul>
+  <li><strong>MeetingBar · Inventario hotelero:</strong> control de stock, pedidos y depósitos. <a href="https://github.com/LucaUnlimited/MeetingBar">Repositorio público</a>.</li>
+  <li><strong>CanchaUp · Reservas deportivas:</strong> backend Java para canchas y equipos. <a href="https://github.com/LucaUnlimited/Backend-CanchaUp">Backend</a> · <a href="https://github.com/LucaUnlimited/Front-CanchaUp">Frontend</a>.</li>
+  <li><strong>Mesa de Juegos:</strong> anotador mobile-first con salas compartidas y partidas offline. <a href="https://mesa-de-juegos.vercel.app/">App en línea</a>.</li>
+  <li><strong>tono:</strong> organizador de playlists de Spotify con borrador y confirmación antes de guardar cambios. Proyecto personal; código privado.</li>
+</ul>
+
+<details>
+  <summary>Un experimento adicional · One extra experiment</summary>
+  <p>Prototipo de visión artificial para contar espacios de estacionamiento ocupados con Python, YOLO y OpenCV. <a href="https://github.com/LucaUnlimited/Parking-Detector">Repositorio público</a>.</p>
+</details>
+
+<h2>Tecnologías · Technologies</h2>
 <p>
   <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>JavaScript</code>
   <code>Java</code> <code>Spring Boot</code> <code>Python</code> <code>FastAPI</code>
   <code>Node.js</code> <code>SQL Server</code> <code>PostgreSQL</code> <code>MySQL</code>
-  <code>MongoDB</code> <code>REST APIs</code> <code>Git</code>
+  <code>REST APIs</code> <code>Git</code>
 </p>
 
 <h2>Formación e idiomas · Education & languages</h2>
 <p>
-  Técnico Superior en Análisis de Sistemas · Instituto IFES (2021–2023)<br>
-  Técnico Electrónico · EPET N.º 14, Neuquén (2013–2019)<br>
-  Español · Nativo &nbsp;|&nbsp; Inglés · Intermedio, en mejora
+  Técnico Superior en Análisis de Sistemas · Instituto IFES (2021-2023)<br>
+  Técnico Electrónico · EPET No. 14, Neuquén (2013-2019)<br>
+  Español nativo · Inglés intermedio, en mejora / Native Spanish · Intermediate English, improving
 </p>
 
-<p><em>¿Tienes un encargo pequeño y concreto? <a href="mailto:lucamartinrivera@gmail.com">Hablemos / Let’s talk.</a></em></p>
+<p><em>Disponible para proyectos remotos part-time o por contrato, hasta 20 h semanales. · Available for remote part-time or contract projects, up to 20 hours/week.</em></p>
