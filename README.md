@@ -24,11 +24,11 @@
 
 <h2>Trabajo para clientes · Client work</h2>
 
-<h3>TangoDash · Gestión de stock conectada a Tango ERP</h3>
+<h3>TangoDash · Gestión de stock conectada a Tango ERP · <a href="https://lucaunlimited.github.io/projects/tangodash/">Case study ↗</a></h3>
 <p>Reúne artículos, proveedores, ventas y existencias. Permite configurar mínimos y máximos para sugerir reposición, preparar órdenes de compra y exportar reportes a Excel o PDF. Desarrollo pago para un cliente; código y datos privados.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>SQL Server</code></p>
 
-<h3>G2 Dashboard · Operaciones y finanzas</h3>
+<h3>G2 Dashboard · Operaciones y finanzas · <a href="https://lucaunlimited.github.io/projects/g2-dashboard/">Case study ↗</a></h3>
 <p>Proyecto pago independiente con módulos de stock, ranking de proveedores, compras y remitos, flujo de caja y cheques, calendario de pagos, gastos, costo de mercadería, cobranzas y evolución de ventas. Código y datos del cliente son privados.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>SQL Server</code></p>
 
